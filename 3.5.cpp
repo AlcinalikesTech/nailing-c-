@@ -11,7 +11,7 @@ class complex{
             
 };
 void complex:: get_number(){
-	cout<<"Enter the real and imaginary part of the complex no.\n";
+	cout<<"Enter the real and imaginary part of the complex number\n";
 	cin>>real_part>>img_part;
 }
 complex add(complex c1,complex c2){
